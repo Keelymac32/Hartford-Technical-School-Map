@@ -2,7 +2,7 @@
 Simple Interactive Map created to show where Hartford Techincal Schools are located
 
 ## Live link to simple story map of Hartford Techincal Schools
-- Leaflet Map [https://keelymac32.github.io/StoryMap/](https://keelymac32.github.io/Hartford-Technical-School-Map/
+- Leaflet Map https://keelymac32.github.io/Hartford-Technical-School-Map/
 - Google Sheets template https://docs.google.com/spreadsheets/d/13AZCWC810W1Zu3GvoLcZn-6_t0TwppUYQsHMU244NoY/edit#gid=0
 
 ## More Info
